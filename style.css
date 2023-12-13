@@ -1,0 +1,37 @@
+.head1{
+    background-color: gray;
+}
+.head {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.box{
+    background-color: gray;
+    width: 100%;
+    height: auto;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+    text-align: left;
+    font-family: Arial, sans-serif;
+
+}
+#chicken{
+    color: chocolate;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.navbar-toggler-icon {
+    display: inline-block;
+    width: 1.5em;
+    height: 1.5em;
+    vertical-align: middle;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    background-color: blue;
+}
